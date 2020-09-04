@@ -1,3 +1,4 @@
 # projet_info_test
-Un projet en info, que je fous ici
-fait avec les bases de c, le but est de réunir les 10 pièces
+Projet Info L1 MIPI S1
+
+Bases de C. Les pointeurs n'étaient pas encore appris
